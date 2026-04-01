@@ -17,16 +17,16 @@
 >
 > - [Kindly submit the Vercel Deployment URL](https://aiml-one-credict.vercel.app/)
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - Kindly submit the GitHub Pages (Documentation) https://abishekselva.github.io/AIML-ONE-CREDICT/
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - https://github.com/Abishekselva/life-dashboard-hub    (github repo url)
 >
 > -[ Kindly submit the Live Application URL (Domain)](https://lifegoal-dash-ai.lovable.app/login)
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - Kindly submit the GitHub Pages (Documentation) https://mgdharan.github.io/life-dashboard-hub/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
